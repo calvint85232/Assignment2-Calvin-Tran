@@ -1,0 +1,12 @@
+Sorting algorithm – InsertionSort
+Sorted 100 elements in 0.06391 ms (avg)
+Sorted 500 elements in 0.21746999999999997 ms (avg)
+Sorted 1000 elements in 0.19541999999999998 ms (avg)
+Sorted 2000 elements in 0.34102 ms (avg)
+Sorted 5000 elements in 2.0011900000000002 ms (avg)
+Sorted 10000 elements in 6.459569999999999 ms (avg)
+Sorted 20000 elements in 26.700889999999998 ms (avg)
+Sorted 75000 elements in 383.489685 ms (avg)
+Sorted 150000 elements in 1545.2602650000001 ms (avg)
+
+Sorting algorithm – SelectionSo
